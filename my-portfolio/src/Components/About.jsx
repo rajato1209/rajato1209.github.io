@@ -20,7 +20,7 @@ const About = () => {
             <Container>
                 <div className='aboutBox'>
                     <div className='about_leftBox'>
-                        <h1>Hi, I'm Rajat Kaswan.</h1>
+                        <h1>Hi, I'm Rajat Kaswan</h1>
                         <Typical
                        className='typical'
               loop={Infinity}
