@@ -18,10 +18,13 @@ const Github = () => {
             </Container>
 
             <h1 style={{ color: "teal", textTransform: "uppercase" }}>my github statistics</h1>
-            <Container>
+            <Container >
+                <div style={{display:"flex", flexDirection:"row",gap:"20px",marginBottom:"30px"}}>
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajato1209&" alt="" />
-                <div>
-                    <img src="https://github-readme-stats.vercel.app/api?username=rajato1209&show_icons=true&locale=en" alt="" className="stats" />
+                <img src="https://github-readme-stats.vercel.app/api?username=rajato1209&show_icons=true&locale=en" alt="" className="stats" />
+                </div>
+                <div style={{}} >
+                    
                     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajato1209&show_icons=true&locale=en&layout=compact" alt="" />
                 </div>
             </Container>
