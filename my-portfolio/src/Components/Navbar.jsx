@@ -100,10 +100,7 @@ const Navbar = () => {
             >
               Contact
             </Link>
-          </li>
-          {/* <li><div className='resumeBox'><a className='resume' href="https://drive.google.com/file/d/1-wfUN-ge2rG3uKSKUveUQ68GqxxxZAVm/view?usp=share_link">
-                        Resume<DownloadIcon />
-                    </a></div></li> */}
+          </li>          
           <li   style={{cursor:"pointer"}}>
             <a href="https://drive.google.com/file/d/1ASIKLEp8LALu7U4GxPEPKyuwTNanXK-y/view?usp=share_link"  target="_blank">
               Resume
