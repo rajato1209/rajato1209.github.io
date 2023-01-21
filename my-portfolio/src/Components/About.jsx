@@ -1,6 +1,7 @@
 import DownloadIcon from '@mui/icons-material/Download';
 import React, { useEffect } from 'react'
 import styled from 'styled-components'
+import Resume from "../Resources/Download/Resume.pdf"
 
 
 import backImg from '../Resources/Images/backImg.jpg';
@@ -8,8 +9,7 @@ import backImg from '../Resources/Images/backImg.jpg';
 import Typical from "react-typical";
 import Aos from "aos";
 import "aos/dist/aos.css";
-// import Resume from '../Resources/Files/Mohit_Sharma_Resume.pdf';
-// import { saveAs } from 'file-saver';
+
 const About = () => {
    useEffect(() => {
     Aos.init({duration:2000})
