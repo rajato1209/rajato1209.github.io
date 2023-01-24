@@ -1,9 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.73780a53.css",
-    "main.js": "/static/js/main.90b7f598.js",
+    "main.js": "/static/js/main.d2d3e01b.js",
     "static/js/787.9238dc60.chunk.js": "/static/js/787.9238dc60.chunk.js",
+    "static/media/fitB.png": "/static/media/fitB.19ee4d8779a65bfdad92.png",
+    "static/media/MedEase.png": "/static/media/MedEase.4672a35908ac3444cb6e.png",
     "static/media/backImg.jpg": "/static/media/backImg.824b19e52cd923e7a1fe.jpg",
+    "static/media/NatureTrug.png": "/static/media/NatureTrug.1f014e207aa142ed9c31.png",
+    "static/media/Resume.pdf": "/static/media/Resume.dc82cc28c4ae177e682d.pdf",
     "static/media/react.png": "/static/media/react.22d1f2096ed82cab7a8a.png",
     "static/media/mongodb.png": "/static/media/mongodb.4f7af09e6354d51beec8.png",
     "static/media/css3.png": "/static/media/css3.845e8eb63836bef093cf.png",
@@ -15,11 +19,11 @@
     "static/media/mern.png": "/static/media/mern.b58d81727b47466a7cda.png",
     "index.html": "/index.html",
     "main.73780a53.css.map": "/static/css/main.73780a53.css.map",
-    "main.90b7f598.js.map": "/static/js/main.90b7f598.js.map",
+    "main.d2d3e01b.js.map": "/static/js/main.d2d3e01b.js.map",
     "787.9238dc60.chunk.js.map": "/static/js/787.9238dc60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73780a53.css",
-    "static/js/main.90b7f598.js"
+    "static/js/main.d2d3e01b.js"
   ]
 }
